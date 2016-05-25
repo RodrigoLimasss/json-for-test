@@ -1,5 +1,5 @@
-# json-to-test
-It's a json repository to teste
+# json-for-test
+It's a json repository for test
 
 
 
